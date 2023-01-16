@@ -8,7 +8,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
     <owl:Ontology rdf:about="https://raw.githubusercontent.com/nenadkrdzavac/test/master/ontologies/oais-ip/example-1-aip.owl">
-        <owl:imports rdf:resource="https://w3id.org/tib/oais/ip"/>
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/nenadkrdzavac/OAIS-IP-Ontology/master/dev/tbox/oais-ip-tbox.owl"/>
     </owl:Ontology>
     
 
