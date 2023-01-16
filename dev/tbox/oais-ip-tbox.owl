@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF
-    xml:base="http://www.oais.ip#"
+    xml:base="hhttps://w3id.org/tib/oais/ip#"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:owl="http://www.w3.org/2002/07/owl#"
     xmlns:xml="http://www.w3.org/XML/1998/namespace"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:oais="http://www.oais.ip#">
-    <owl:Ontology rdf:about="http://www.oais.ip">
-        <owl:versionIRI rdf:resource="http://www.oais.ip/0.2"/>
+    <owl:Ontology rdf:about="https://w3id.org/tib/oais/ip">
+        <owl:versionIRI rdf:resource="https://w3id.org/tib/oais/ip"/>
         <rdfs:comment xml:lang="en">This ontology realises the OAIS information model as semantic web compliant ontology. The OAIS onformation model specifies Information Packages of various kins for usage in long term preservation.
 An Information Package is a logical container composed of optional Information Object(s) Associated with this Information Package is Packaging Information that describes how the components of an Information Package are logically or physically bound together and how to identify and extract the components.</rdfs:comment>
     </owl:Ontology>

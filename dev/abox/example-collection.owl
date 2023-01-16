@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https://raw.githubusercontent.com/fengel/OAIS-IP-Ontology/master/dev/tbox/oais-ip-tbox.owl#"
+<rdf:RDF xmlns="https://w3id.org/tib/oais/ip/EC1#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:www="http://www.oais.ip#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="">
-        <owl:imports rdf:resource="http://www.oais.ip/0.2"/>
-        <owl:imports rdf:resource="https://git.tib.eu/terminology/sandbox/oais-ip-ontology-collection/raw/master/dev/abox/example-1-aip.owl"/>
-		<owl:imports rdf:resource="https://git.tib.eu/terminology/sandbox/oais-ip-ontology-collection/raw/master/dev/abox/example-2-aip.owl"/>
-		<owl:imports rdf:resource="https://git.tib.eu/terminology/sandbox/oais-ip-ontology-collection/raw/master/dev/tbox/oais-ip-tbox.owl"/>
+    <owl:Ontology rdf:about="https://w3id.org/tib/oais/ip/EC1">
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/nenadkrdzavac/test/master/ontologies/oais-ip/example-1-aip.owl"/>
+		<owl:imports rdf:resource="https://raw.githubusercontent.com/nenadkrdzavac/test/master/ontologies/oais-ip/example-2-aip.owl"/>
+		<owl:imports rdf:resource="https://w3id.org/tib/oais/ip"/>
     </owl:Ontology>
     
 
