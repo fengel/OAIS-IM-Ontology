@@ -29,8 +29,8 @@ An Information Package is a logical container composed of optional Information O
     <!-- http://www.oais.ip#OWLObjectProperty_054a9cee_f7a9_44d8_9793_65458644ce93 -->
 
     <owl:ObjectProperty rdf:about="http://www.oais.ip#OWLObjectProperty_054a9cee_f7a9_44d8_9793_65458644ce93">
-        <rdfs:domain rdf:resource="http://www.oais.ip#OWLClass_726b1d12_438c_4fd2_9231_0247163ba6b7"/>
-        <rdfs:range rdf:resource="http://www.oais.ip#OWLClass_2104e04d_3fd5_416c_b94c_ec9803a257ca"/>
+        <rdfs:domain rdf:resource="http://www.oais.ip#OWLClass_2104e04d_3fd5_416c_b94c_ec9803a257ca"/>
+        <rdfs:range rdf:resource="http://www.oais.ip#OWLClass_726b1d12_438c_4fd2_9231_0247163ba6b7"/>
         <rdfs:comment xml:lang="en">The Content Information of an AIC is composed of complete AIPs</rdfs:comment>
         <rdfs:label xml:lang="en">composedOf</rdfs:label>
     </owl:ObjectProperty>
