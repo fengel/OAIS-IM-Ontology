@@ -300,7 +300,7 @@ An Information Package is a logical container composed of optional Information O
 
     <owl:Class rdf:about="http://www.oais.ip#OWLClass_208b0e70_d885_4782_9f15_dbc1af32cbfb">
         <rdfs:comment xml:lang="en">A type of Package Description that is specialized to provide information about an Archival Information Unit for use by Access Aids.</rdfs:comment>
-        <rdfs:label xml:lang="de">Unit Description</rdfs:label>
+        <rdfs:label xml:lang="en">Unit Description</rdfs:label>
     </owl:Class>
     
 
