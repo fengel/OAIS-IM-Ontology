@@ -230,6 +230,15 @@ An Information Package is a logical container composed of optional Information O
     
 
 
+    <!-- https://w3id.org/tib/oais/ip#describedBy -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/tib/oais/ip#describedBy">
+        <rdfs:domain rdf:resource="http://www.oais.ip#OWLClass_2104e04d_3fd5_416c_b94c_ec9803a257ca"/>
+        <rdfs:range rdf:resource="http://www.oais.ip#OWLClass_46d2d588_bd75_497f_8b5a_bad62bd3f54a"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
