@@ -2,7 +2,8 @@
 
 This section ilustrates OAIS-IM ontology that is developed based on OAIS reference model [1]. Figure 1 shows
 
-[<img src="/images/pds-label-uml-model.png" width="250"/>](pds-label-uml-model.png)
+[<img src="/images/pds-label-uml-model.png" width="550"/>](pds-label-uml-model.png)
+*Figure 1. A snapshot of OAIS IM logical model*
 
 |Term name           | Class expression               |
 |--------------------|--------------------------------|
