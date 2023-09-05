@@ -8,8 +8,7 @@ long term preservation of digital information. Figure 1 shows a part of OAIS IM 
 *Figure 1. A snapshot of OAIS IM logical model*
 
 
-Classes from OAIS IM logical model that are shown in Figure 1 are ex-
-pressed in the OAIS IM KB as concept names. Associations
+Classes from OAIS IM logical model that are shown in Figure 1 are expressed in the OAIS IM KB as concept names. Associations
 between classes in from OAIS IM logical model are expressed
 as roles names in the OAIS IM KB. Table 1 specifies DL
 concept inclusion (CI) axioms including domain and range
@@ -19,7 +18,7 @@ IM from Figure 1.
 
 [<img src="/images/table-1.png" width="550"/>](table-1.png)
 
-*Table 1. Class expressions dirived from OAIS IM logical model*
+*Table 1. DL Concept Inclusion axioms derived from OAIS Information Model.*
 
 #References
 
