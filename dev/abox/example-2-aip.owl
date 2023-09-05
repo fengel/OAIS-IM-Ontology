@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.semanticweb.org/krdzavacn/ontologies/2022/1/untitled-ontology-99#"
-     xml:base="http://www.semanticweb.org/krdzavacn/ontologies/2022/1/untitled-ontology-99"
+<rdf:RDF xmlns="https://raw.githubusercontent.com/nenadkrdzavac/test/master/ontologies/oais-ip/example-2-aip.owl#"
+     xml:base="https://raw.githubusercontent.com/nenadkrdzavac/test/master/ontologies/oais-ip/example-2-aip.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:www="http://www.oais.ip#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/krdzavacn/ontologies/2022/1/untitled-ontology-99">
-        <owl:imports rdf:resource="https://git.tib.eu/terminology/sandbox/oais-ip-ontology-collection/raw/master/dev/tbox/oais-ip-tbox.owl"/>
+    <owl:Ontology rdf:about="https://raw.githubusercontent.com/nenadkrdzavac/test/master/ontologies/oais-ip/example-2-aip.owl">
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/nenadkrdzavac/OAIS-IP-Ontology/master/dev/tbox/oais-ip-tbox.owl"/>
     </owl:Ontology>
     
 
