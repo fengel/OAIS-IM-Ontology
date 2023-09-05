@@ -14,7 +14,7 @@ This project structure includes:
   
 ## Importing Mechanism
 
-![Figure 1. Importing mechanism for OAIS IP ontology](images/importing-mechanism-oais-ip-collection-project.png)
+![Figure 1. Importing mechanism for OAIS IP ontology](../../images/importing-mechanism-oais-ip-collection-project.png)
 
 Figure 1 show importing mechanism for OAIS IP ontology project. The **example-collection.owl** ontology file imports the following ontology files:
 
@@ -24,7 +24,7 @@ Figure 1 show importing mechanism for OAIS IP ontology project. The **example-co
 
 ## TIB Terminology Service Statistics use case
 
-![Firgure 2. OAIS IP ontology for TIB Terminology Service Statistics use base](images/oais-ip-tib-terminology-service-statistics.png)
+![Firgure 2. OAIS IP ontology for TIB Terminology Service Statistics use base](../../images/oais-ip-tib-terminology-service-statistics.png)
 
 Figure 2. shows *TIB Terminology Service Statistics* use case. The figure visualizes ingredients from **example-1-aip.owl** and **oais-ip-tbox.owl** ontology files. The figure on its left side shows a part of class hierarchy from *OAIS IP* ontology visible in dark blue rectangles. The right half of the figure depricts individuals (objects) and relations between them. Light blue colored rectangles denote objects from *TIB Terminology Service Statistics* domain, while green rectangles represent objects from *CoyPu collection* domain. We distinct four type of arrows: 
  - Red dashed arrows respresent *instance of* relation between objects and corresponding classes. For example,  *CoyPu collection* object is instance of *Archival Information Collection* class. 
