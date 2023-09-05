@@ -8,7 +8,7 @@ long term preservation of digital information. Figure 1 shows a part of OAIS IM 
 *Figure 1. A snapshot of OAIS IM logical model*
 
 
-OAIS IM logical model that are shown in Figure 1 are ex-
+Classes from OAIS IM logical model that are shown in Figure 1 are ex-
 pressed in the OAIS IM KB as concept names. Associations
 between classes in from OAIS IM logical model are expressed
 as roles names in the OAIS IM KB. Table 1 specifies DL
