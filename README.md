@@ -21,7 +21,7 @@ IM from Figure 1.
 *Table 1. DL Concept Inclusion axioms derived from OAIS Information Model.*
 
 To bring OAIS IM KB alive we use OWL2 [ 2 ] language.
-Implemented OAIS IM ontology is available in [this](https://github.com/fengel/OAIS-IM-Ontology/tree/master/dev/tbox) Github repository. The AIP concept name is subsumed by AIP concept
+Implemented OAIS IM ontology is available in this Github repository. The AIP concept name is subsumed by AIP concept
 name. The AIP as a whole consists of CI as a part. Role name
 **composedOf** encodes this part of relation. Domain and range
 side restrictions on this role name is shown in Table 1. On
