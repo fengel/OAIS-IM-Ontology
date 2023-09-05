@@ -1,7 +1,7 @@
 # OAIS-IM-Ontology
 
-This section ilustrates OAIS-IM ontology that is developed based on OAIS reference model [1]. Figure 1 shows a part of OAIS IM logical model. 
-We implemented this model as an ontology using OWL2. 
+This section ilustrates OAIS-IM ontology that is developed based on OAIS IM reference model [1]. Whole OAIS IM [1] describes metadata that is used for
+long term preservation of digital information. Figure 1 shows a part of OAIS IM logical model. We implemented this model as an ontology using OWL2. 
 
 [<img src="/images/pds-label-uml-model.png" width="550"/>](pds-label-uml-model.png)
 
@@ -12,6 +12,9 @@ We implemented this model as an ontology using OWL2.
 |Term name           | Class expression               |
 |--------------------|--------------------------------|
 |Information Package | IP rdfs:subClassOf owl:Thing   | 
+
+
+*Table 1. Class expressions dirived from OAIS IM logical model*
 
 #References
 
