@@ -8,11 +8,7 @@ long term preservation of digital information. Figure 1 shows a part of OAIS IM 
 *Figure 1. A snapshot of OAIS IM logical model*
 
 
-
-|Term name           | Class expression               |
-|--------------------|--------------------------------|
-|Information Package | IP rdfs:subClassOf owl:Thing   | 
-
+[<img src="/images/table-1.png" width="550"/>](table-1.png)
 
 *Table 1. Class expressions dirived from OAIS IM logical model*
 
