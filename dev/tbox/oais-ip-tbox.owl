@@ -214,12 +214,6 @@ An Information Package is a logical container composed of optional Information O
     
 
 
-    <!-- http://www.oais.ip#composedOf -->
-
-    <owl:ObjectProperty rdf:about="http://www.oais.ip#composedOf"/>
-    
-
-
     <!-- http://www.oais.ip#packageDescription -->
 
     <owl:ObjectProperty rdf:about="http://www.oais.ip#packageDescription">
