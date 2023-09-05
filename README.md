@@ -2,8 +2,7 @@
 
 This section ilustrates OAIS-IM ontology that is developed based on OAIS reference model [1]. Figure 1 shows
 
-
-![Figure 1. A snapshot of OAIS IP ontology](/images/pds-label-uml-model.png=100x20)
+[<img src="/images/pds-label-uml-model.png" width="50"/>](pds-label-uml-model.png)
 
 |Term name           | Class expression               |
 |--------------------|--------------------------------|
